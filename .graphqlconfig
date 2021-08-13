@@ -1,0 +1,12 @@
+{
+  "name": "Schema",
+  "schemaPath": "my.schema.json",
+  "extensions": {
+    "endpoints": {
+      "Default": {
+        "url": "https://staging-nu-needful-things.nubank.com.br/query",
+        "introspect": true
+      }
+    }
+  }
+}
